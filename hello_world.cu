@@ -5,9 +5,10 @@
 // #include <helper_string.h>
 
 /* Run with only HOST code *\
-// Say goodbye to the world
+
+// Say goodbye to the universe
 int main(void) {
-	printf("Goodbye World!\n");
+	printf("Goodbye Universe!\n");
 	return 0;
 }
 
@@ -21,7 +22,7 @@ __global__ void mykernel(void) {
 
 int main(void) {
   mykernel<<<1,1>>>();
-  printf("Goodbye World!\n");
+  printf("Goodbye Universe!\n");
   return 0;
 }
 
