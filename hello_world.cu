@@ -27,7 +27,7 @@ int main(void) {
 }
 
 /*
-
+blah blah comment not conflicting
 __global__  indicates function that 1) runs on DEVICE , 2) called from the HOST
 
 <<<   >>>   indicates function that    runs on DEVICE and is called from the HOST
