@@ -8,7 +8,7 @@
 
 // Say goodbye to the universe
 int main(void) {
-	printf("Heat death boogaloo!\n");
+	printf("Heslkdslfkjdflkjsdlfkjat death boogaloo!\n");
 	return 0;
 }
 
