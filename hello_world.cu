@@ -9,7 +9,7 @@
 // Say goodbye to the universe
 int main(void) {
 	printf("Heslkdslfkjdflkjsdlfkjat death boogaloo!\n");
-	return 0;
+	return 4;
 }
 
 */
