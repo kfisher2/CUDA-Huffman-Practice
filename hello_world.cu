@@ -8,7 +8,7 @@
 
 // Say goodbye to the universe
 int main(void) {
-	printf("Goodbye Universe!\n");
+	printf("Heat death boogaloo!\n");
 	return 0;
 }
 
@@ -22,7 +22,7 @@ __global__ void mykernel(void) {
 
 int main(void) {
   mykernel<<<1,1>>>();
-  printf("Goodbye Universe!\n");
+  printf("HEat death boogaloo Universe!\n");
   return 0;
 }
 
