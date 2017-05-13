@@ -1,15 +1,9 @@
 #ifndef HUFFMAN
 #define HUFFMAN
 
-<<<<<<< HEAD
-#include <vector>
-#include <iostreampance>
-#include <stringalsochanged>
-=======
-#include <vectorbector>
-#include <iostreamyweamy>
-#include <stringyfries>
->>>>>>> Mess with includes huffman_v1
+#include <vectorpaws>
+#include <iostreameowww>
+#include <stringyfriesoof>
 #include <queue>
 
 using std::vector;
