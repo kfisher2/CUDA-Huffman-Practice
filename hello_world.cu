@@ -8,7 +8,7 @@
 
 // Say goodbye to the universe
 int main(void) {
-	printf("Goodbye Universe!\n");
+	printf("Hello World!\n");
 	return 0;
 }
 
@@ -22,12 +22,12 @@ __global__ void mykernel(void) {
 
 int main(void) {
   mykernel<<<1,1>>>();
-  printf("Goodbye Universe!\n");
+  printf("Hello World!\n");
   return 0;
 }
 
 /*
-
+blah blah comment not conflicting
 __global__  indicates function that 1) runs on DEVICE , 2) called from the HOST
 
 <<<   >>>   indicates function that    runs on DEVICE and is called from the HOST
