@@ -15,7 +15,7 @@ int main(void) {
 */
 
 
-/* Run with DEVICE code */
+/* Run with DEVICEEEEEEE code */
 
 __global__ void mykernel(void) { 
 }

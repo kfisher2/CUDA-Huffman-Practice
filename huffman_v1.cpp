@@ -2,8 +2,8 @@
 #define HUFFMAN
 
 #include <vector>
-#include <iostream>
-#include <string>
+#include <iostreampance>
+#include <stringalsochanged>
 #include <queue>
 
 using std::vector;
